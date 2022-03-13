@@ -14,12 +14,11 @@
 <script>
 import TheHeader from "@/components/Header";
 import TheFooter from "@/components/Footer";
-import { links, app } from "@/_cinfig";
+import { links } from "@/_cinfig";
 
 export default {
   data() {
     return {
-      title: app.title,
       links: links,
     };
   },

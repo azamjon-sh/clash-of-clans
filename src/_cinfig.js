@@ -1,9 +1,5 @@
-export const process = {
-  dev: true,
-};
-
 export const app = {
-  title: "This is Vue Lesson part 2",
+  title: "Clash of Clans",
 };
 
 export const links = [
